@@ -1,0 +1,148 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://pic.imgdb.cn/item/65850325c458853aef8d8938.jpg",
+    "hidden": false
+  },
+  "profile": {
+    "name": "陈雪娇",
+    "email": "1286707605@qq.com",
+    "mobile": "18855154498",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2018.09.01",
+        "2022.06.30"
+      ],
+      "school": "安徽工业大学",
+      "major": "工业设计",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "安徽省工业设计大赛专项优秀奖",
+      "award_time": "2019.10"
+    },
+    {
+      "award_info": "安徽工业大学校级优秀社会工作者",
+      "award_time": "2020.07-2021.08"
+    },
+    {
+      "award_info": "安徽工业大学校级三等奖学金",
+      "award_time": "2020-2021学年"
+    },
+    {
+      "award_info": "安徽工业大学校级特等奖学金",
+      "award_time": "2021-2022学年"
+    },
+    {
+      "award_info": "CET6",
+      "award_time": "2019.12"
+    },
+    {
+      "award_info": "安徽省第九届工业设计大赛二等奖",
+      "award_time": "2022.10"
+    },
+    {
+      "award_info": "第六届全国大学生工业设计大赛（安徽赛区）一等奖",
+      "award_time": "2022.10"
+    },
+    {
+      "award_info": "外观专利：摆件（摇摆艺术装置）（ZL 2023 3 0046447.2）",
+      "award_time": "2023.06"
+    },
+    {
+      "award_info": "外观专利：音箱（火星机械木偶）（ZL 2023 3 0046455.7）",
+      "award_time": "2023.06"
+    },
+    {
+      "award_info": "实用新型专利：一种椭圆形舞台展览互动装置（ZL 2023 2 0476043.1）",
+      "award_time": "2023.10"
+    },
+    {
+      "award_info": "实用新型专利：一种基于激光雷达的声音交互装置（ZL 2023 2 0430217.0）",
+      "award_time": "2023.11"
+    },
+    {
+      "award_info": "实用新型专利：一种基于毫米雷达的感应互动式泡泡制造机（ZL 2023 2 0475047.X）",
+      "award_time": "2023.11"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "北京吉星宝科技有限公司",
+      "department_name": "研发部",
+      "work_time": [
+        "2022.08",
+        "2023.08"
+      ],
+      "work_desc": "1. \r\n"
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "北京联通京慧云",
+      "project_role": "开发人员",
+      "project_time": "2021.09 - 2021.12",
+      "project_desc": "面向北京联通提供私有云服务",
+      "project_content": "1. 负责产品的日常维护\n2.负责一些个性化功能的开发"
+    },
+    {
+      "project_name": "基于DPU卡的IT云算力调度技术研究与应用",
+      "project_role": "技术负责人",
+      "project_time": "2022.9 - 2023.12",
+      "project_desc": "在传统裸金属的基础上加入DPU卡，将存储和网络下沉到DPU卡上，提升计算能力和网络带宽并实现裸金属的云盘启动、迁移和扩容。实现DPU卡和SDN厂商解藕，可以不同的SDN厂商和DPU卡厂商随意对接",
+      "project_content": "在该项目中主要负责总体实现框架的设计和开发\n1. 和各个DPU卡厂商以及SDN厂商对接，指定整体解决方案和相关接口规范\n2.基于原生OpenStacke进行开发，以插件的形式在Opensatck侧实现解决方案\n3. 在DPU侧新增一个组件和OpenStack对接，实现全流程的打通"
+    },
+    {
+      "project_name": "业务监控-手机探测",
+      "project_role": "开发总负责人",
+      "project_time": "2021.12 - 2022.6",
+      "project_desc": "在手机中安装一个探测客户端，通过服务端对手机客户端下发命令，实现对手机APP的实时监控",
+      "project_content": "负责项目整体解决方案的设计和开发\n1.负责手机客户端的设计和开发\n2.负责手机探测后端的设计和开发\n3.负责手机探测前端的设计和开发"
+    },
+    {
+      "project_name": "OpenStack国产化",
+      "project_role": "项目负责人",
+      "project_time": "2022.11 - 至今",
+      "project_desc": "现网都是基于Centos搭建的OpenStack-Pike版，国产化原因需要升级到BC欧拉操作系统",
+      "project_content": "1.将Pike版OpenStack由Python2.7升级到Python3.6\n2.在BC欧拉中安装OpenStack-Pike并形成完整的部署方案交付到运维侧进行批量部署测试" 
+    },
+    {
+      "project_name": "云迁移调度平台",
+      "project_role": "技术负责人",
+      "project_time": "2023.6 - 2023.12",
+      "project_desc": "给用户提供上云方案，同POD、跨POD迁移，KVM2KVM迁移，VMWare2KVM迁移，IRONIC2KVM迁移，UEFI转LEGACY启动",
+      "project_content": "负责迁移核心服务框架设计和开发，实现KVM2KVM迁移，VMWare2KVM迁移，IRONIC2KVM迁移，UEFI转LEGACY启动，支持增量迁移，可以通过SSH、镜像等多种方式迁移OS" 
+    },
+    {
+      "project_name": "SD-WAN",
+      "project_role": "项目负责人",
+      "project_time": "2023.12 - 至今",
+      "project_desc": "基于软件定义网络(SDN)的思想，设计和实现的一种新型网络技术。解决现代大型企业在全球不同区域的网络连通性，提高网络管理效率，并降低网络管理成本。",
+      "project_content": "1.在企业入口点通过CPE设备连接到骨干网，在广域网的基础上构建私有隧道\n2.通过SDWAN控制器来实现路由的选择以及流量监控等功能" 
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "两年云计算IAAS层研发经验\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2.云计算运维:能够快速定位OpenStack问题点并进行分析解决\n3.云计算研发:针对OpenStack的研发能力，具有独立开发和测试经验"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
